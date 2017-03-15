@@ -1,0 +1,16 @@
+{
+  "name": "Amazone",
+  "version": "1.0.0",
+  "description": "Amazone, an Amazon like application to track products, departments, price, and stock",
+  "main": "amazoneCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Murray",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
